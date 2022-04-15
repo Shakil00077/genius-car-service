@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Daren Sami",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://raw.githubusercontent.com/ProgrammingHero1/genius-car-service-module-60/main/src/images/experts/expert-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Wiliam Smeeth",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://raw.githubusercontent.com/ProgrammingHero1/genius-car-service-module-60/main/src/images/experts/expert-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Shakil Shehjaad",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://raw.githubusercontent.com/ProgrammingHero1/genius-car-service-module-60/main/src/images/experts/expert-3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Adnan Mim",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://raw.githubusercontent.com/ProgrammingHero1/genius-car-service-module-60/main/src/images/experts/expert-4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Ayman Sadiq",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://raw.githubusercontent.com/ProgrammingHero1/genius-car-service-module-60/main/src/images/experts/expert-5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Merry Jan",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+        "img": "https://raw.githubusercontent.com/ProgrammingHero1/genius-car-service-module-60/main/src/images/experts/expert-6.png"
+    }
+]
